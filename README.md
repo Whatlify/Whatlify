@@ -18,4 +18,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Whatlify&show_icons=true" />
 </picture>
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=Whatlify&left_color=green&right_color=red)
+[visitors](https://visitor-badge.glitch.me/badge?page_id=Whatlify.Whatlify&left_color=green&right_color=red)
